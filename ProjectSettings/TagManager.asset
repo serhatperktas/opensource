@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kurbaga
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - zemin
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backGround
+    uniqueID: 704114721
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: effect
+    uniqueID: 1126837797
+    locked: 0
+  - name: cevreElamanlari
+    uniqueID: 414561023
+    locked: 0
+  - name: player
+    uniqueID: 4241363263
+    locked: 0
